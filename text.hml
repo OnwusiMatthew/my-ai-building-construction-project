@@ -1,0 +1,55 @@
+PROMPTING & PROMPT ENGINEERING
+
+LLM used: Gemini.
+
+The Prompt used to generate a full website for 'BassyDue Construction & Engineering' is as follows:
+
+Act as an expert web designer and developer. Create a clear, modern, and professional 5-page website for "BassyDue Construction & Engineering Ltd," a high-end residential and commercial construction firm. The website must be clean, scannable, and highly trustworthy.
+Collaborate on a cohesive multi-page project
+Give it a menu with drop down items linking the user to the different pages of the website
+
+
+Page 1: Home:
+
+what to include:
+● navigation bar (consistent across all pages), a logo and a large header of 'BassyDue'and a sub-header/tagline lettering of 'Construction & Engineering Ltd' on the top left hand side, Responsive: Convert to hamburger menu icon on mobile screen. and also add a search bar and let it be place at the right hand side of the menu bar. (make the navigation bar sticky).
+
+● Hero Section: Hero banner with a high-res project image, a "Get a Free Consultation" call-to-action (CTA), and sections for Core Services, Client Testimonials, featured projects, "Why Choose Us Section (4 reasons with icons), Testimonials from satisfied client (4 quotes).
+ 
+●Footer (consistent across all pages)
+What to include in the footer section of the landing page:
+● add a 'Terms and Condition and let it stay under BassyDue Construction & Engineering.
+● Add different social media links and 
+● Privacy Policy and let it stay under Social media links
+● A copy right
+● make the footer sticky
+Use Tailwind css to build the website
+Let every page 
+
+
+Page 2: About Us:
+what to include:
+● Page hero: 'About Us' with a background picture/image of a construction project,
+● Company history and mission (3 paragraphs),
+● Why you should work with Us: core values (safety, quality, integrity), 
+● Meet the team section (4 photos and a brief bios of the leadership team),
+● Awards or certifications (3 awards or certifications).
+
+
+Page 3: Services:
+What to include: 
+Bulleted lists of capabilities: Pre-construction, General Contracting, Design-Build, and Remodeling. each list with icons and should be arranged in cards.
+
+
+Page 4: Projects/Portfolio:
+What to include:
+● A grid layout showing high-quality images of recent completed projects, including project names, locations, and a short description of the work (3 completed projects).
+● A grid layout showing high-quality images of a renovated projects, including project names, locations, and a short description of the work (2 renovated projects).
+● A grid layout showing high-quality images of recent current projects under construction, including project names, locations, and a short description of the work (3 projects under construction).
+
+Contact Us page: A location map, physical address, phone number, email address, and a lead-generation form for project inquiries.
+
+Use Tailwind css to build the website
+Implement responsive design for mobile, tablet, and desktop
+
+Build me a complete website I can proudly share
